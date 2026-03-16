@@ -17,6 +17,6 @@ Companies that trusted Cyreal for font customisations:
 Google Fonts | Elfa | Cornell University | Safearth | Newbie
 
 >[!TIP]
-> Font Testing Page https://cyreal.org/testing/ 
+> Font Testing Page https://cyreal.org/testing
 
 
